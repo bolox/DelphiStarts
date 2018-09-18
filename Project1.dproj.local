@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/18 12:11:48.000.202,=C:\Users\Jaume\Documents\Embarcadero\Studio\Projects\GridPaneView1.pas</Transaction>
+    <Transaction>2018/09/18 12:11:50.000.449,=C:\Users\Jaume\Documents\Embarcadero\Studio\Projects\SplitPaneView1.pas</Transaction>
+    <Transaction>2018/09/18 12:14:19.000.816,=C:\Users\Jaume\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/09/18 12:38:31.000.114,C:\Users\Jaume\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Jaume\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/18 12:38:31.000.114,C:\Users\Jaume\Documents\Embarcadero\Studio\Projects\Unit2.fmx=C:\Users\Jaume\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/09/18 12:40:13.000.844,C:\Users\Jaume\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Jaume\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/09/18 13:50:15.000.594,C:\Users\Jaume\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Jaume\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
