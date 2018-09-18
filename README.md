@@ -1,2 +1,0 @@
-# DelphiStarts
-LearningDelphi
